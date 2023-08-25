@@ -40,8 +40,8 @@ public class Employee {
     public int getAge(){
         return age;
     }
-    public void setAge(int newAge){
-        this.age = newAge;
+    public void setAge(int age){
+        this.age = age;
     }
 
     @Override
